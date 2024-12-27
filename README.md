@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluelamar
 - 👀 I’m interested in web architectures, languages, algorithms.
-- 🌱 I’m currently learning about payment systems.
+- 🌱 I’m currently learning about browser plugins.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
